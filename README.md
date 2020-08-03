@@ -1,11 +1,21 @@
-### Hi there 👋
+# Hi there 👋
+
+## ✨ My name is **Gian**, i'm a Computer Science student at **UFRPE**.
+
+## 🔨 I’m currently working on [**an online study platform**](https://github.com/gian8311/proffy).
+
+## 📚 I'm currently learning _HTML_, _CSS_ and _Javascript_.
+
+## 🧑🏻 Pronouns: **he**/**him**.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gian8311&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gian8311/gian8311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔨 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
