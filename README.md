@@ -1,12 +1,12 @@
 # Hi there 👋
 
-## ✨ My name is **Gian**, i'm a Computer Science student at **UFRPE**.
+### ✨ My name is **Gian**, i'm a Computer Science student at **UFRPE**.
 
-## 🔨 I’m currently working on [**an online study platform**](https://github.com/gian8311/proffy).
+### 🔨 I’m currently working on [**an online study platform**](https://github.com/gian8311/proffy).
 
-## 📚 I'm currently learning _HTML_, _CSS_ and _Javascript_.
+### 📚 I'm currently learning _HTML_, _CSS_ and _Javascript_.
 
-## 🧑🏻 Pronouns: **he**/**him**.
+### 🧑🏻 Pronouns: **he**/**him**.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gian8311&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
