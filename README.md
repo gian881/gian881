@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### ✨ My name is **Gian**, i'm a Computer Science student at **UFRPE**.
+### ✨ My name is Gian, i'm a Computer Science student at UFRPE.
 
 ### 📚 I'm currently learning [_C_](https://github.com/gian8311/IPI).
 
@@ -12,7 +12,7 @@
 
 ### 📫 How to reach me: via [this e-mail](mailto:gdass8000@gmail.com).
 
-### 🧑🏻 Pronouns: **he**/**him**.
+### 🧑🏻 Pronouns: he/him.
 
 <!-- ⚡ Fun fact: ... -->
 
