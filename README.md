@@ -2,7 +2,7 @@
 
 ### ✨ My name is Gian, i'm a Computer Science student at UFRPE.
 
-### 📚 I'm currently learning [_C_](https://github.com/gian8311/IPI).
+<!-- ### 📚 I'm currently learning [_C_](https://github.com/gian8311/IPI). -->
 
 <!-- ### 🔨 I’m currently working on...-->
 
