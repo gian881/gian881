@@ -2,7 +2,7 @@
 
 ### ✨ My name is Gian, i'm a Computer Science student at UFRPE.
 
-### 📚 I'm currently learning Java.
+### 📚 I'm currently learning .NET.
 
 <!-- ### 🔨 I’m currently working on...-->
 
