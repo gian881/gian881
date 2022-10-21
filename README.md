@@ -2,7 +2,7 @@
 
 ### ✨ My name is Gian, i'm a Computer Science student at UFRPE.
 
-### 📚 I'm currently learning React.
+### 📚 I'm currently learning ReactJS.
 
 <!-- ### 🔨 I’m currently working on...-->
 
@@ -16,4 +16,4 @@
 
 <!-- ⚡ Fun fact: ... -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gian881&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gian881&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
