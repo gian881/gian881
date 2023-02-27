@@ -10,7 +10,7 @@
 
 <!-- 👯 I’m looking to collaborate on... -->
 
-### 📫 How to reach me: via [this e-mail](mailto:gdass8000@gmail.com).
+### 📫 How to reach me: via [this e-mail](mailto:giansantos.dev@gmail.com).
 
 ### 🧑🏻 Pronouns: he/him.
 
